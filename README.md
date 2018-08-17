@@ -4,7 +4,7 @@ This repository contains jupyter notebooks related to multiple data science proj
 2. pgatour_raw.db - Sqlite database file containing pgatour player data scraped in file 1.
 3. pgatour_raw.csv - CSV file containing raw data from file #2.
 4. pgatour_cleaned.csv - CSV file containing cleaned version of pgatour_raw.csv. The process I used to clean this data can be found in the PGA tour - EDA notebook in this repository.
-5. PGA Tour Data Science Project-Final.ipynb - Contains a machine learning project focused on classifying players as tournament and non-tournament winners. 
+5. PGA Tour Machine Learning Project - Classification.ipynb - Contains a machine learning project focused on classifying players as tournament and non-tournament winners. 
 6. PGA Tour - EDA - Contains exploratory data analysis for the dataset in the pgatour_raw.db database file. This EDA includes data cleaning and formatting, feature investigation, and a thorough analysis of the PGA tour statistics collected over time.
 
 
